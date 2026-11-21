@@ -71,7 +71,6 @@ CANC_SAT.xml → XML de teste para cancelamento SAT (na raiz)
 ---
 
 ## 👥 Autores  
-(em ordem alfabética)
 
 - Carla Adriana Vieira
 - Guilherme Martins de Almeida
