@@ -1,5 +1,5 @@
 # 🖨️ Controle de Impressora Térmica Elgin (i8 / i9) em C
-### (Coloque aqui o nome do seu projeto)
+###
 ---
 
 ## 📘 Sobre o Projeto
